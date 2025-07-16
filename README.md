@@ -19,6 +19,8 @@ This project explores the application of machine learning classification models 
 The models were evaluated on their ability to accurately classify the conditions. Key findings included:
 
 ## Diabetes
+<img width="500" height="400" alt="DIABETES Precision" src="https://github.com/user-attachments/assets/2410d9af-da2f-424c-9f63-845809bc88dc" />
+<img width="500" height="400" alt="Unknown" src="https://github.com/user-attachments/assets/79f4b8bb-87cf-4eac-8709-5d48571fabaa" />
 
 - KNN and Decision Trees performed strongly for diabetes prediction, with high accuracy and balanced precision-recall values.
 
