@@ -17,8 +17,17 @@ This project explores the application of machine learning classification models 
 - Source: https://www.kaggle.com/datasets/yasserhessein/thyroid-disease-data-set
 # Results
 The models were evaluated on their ability to accurately classify the conditions. Key findings included:
+
+## Diabetes
+
 - KNN and Decision Trees performed strongly for diabetes prediction, with high accuracy and balanced precision-recall values.
-- For hypothyroidism, KNN achieved the best balance of precision and recall, while Naive Bayes showed high recall but lower precision.
+
+## Hypothyroidism
+<img width="500" height="400" alt="HYPOTHYROID PRECISION" src="https://github.com/user-attachments/assets/19b589c2-bfed-4804-a532-b677c3e46391" />
+
+<img width="500" height="300" alt="HYPOTHYROID ROC" src="https://github.com/user-attachments/assets/40b8bf6f-b57a-412e-a4c9-b2c23e16a37d" />
+
+- KNN achieved the best balance of precision and recall, while Naive Bayes showed high recall but lower precision.
 # Features of the Repository
 - **Python Notebooks**: The notebooks contain all of the preprocessing steps, model training, evaluation and visualizations
 - **Datasets**: The diabetes and hypothyroidism datasets are located in the 'data' file, we used these for training and evaluation.
