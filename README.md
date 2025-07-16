@@ -4,7 +4,7 @@ This project explores the application of machine learning classification models 
 # Project Overview
 - Analyzed the datasets for diabetes and hypothyroidism prediction.
 - Built and evaluated classification models, including:
-		- Logistic Regression
+	- Logistic Regression
   	- K Nearest Neighbors (KNN)
   	- Decision TreeNaive Bayes
   	- Linear Discriminant Analysis (LDA)
@@ -23,7 +23,7 @@ The models were evaluated on their ability to accurately classify the conditions
 - **Python Notebooks**: The notebooks contain all of the preprocessing steps, model training, evaluation and visualizations
 - **Datasets**: The diabetes and hypothyroidism datasets are located in the 'data' file, we used these for training and evaluation.
 ## Lessons Learned 
-Through this project, I enhanced my understanding and abiility to:
+Through this project, I enhanced my understanding and ability to:
 - Preprocess and clean large medical datasets.
 - Implement various classification algorithms in Python.
 - Compare and interpret model performance metrics.
